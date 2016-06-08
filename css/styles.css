@@ -338,8 +338,8 @@ a {
   padding: 0 !important; }
 
 p {
-  font-size: 14px;
-  line-height: 25px; }
+  font-size: 20px !important;
+  line-height: 30px !important; }
 
 a {
   color: #73d0da; }
@@ -980,7 +980,7 @@ h2 {
   font-family: PT Sans, sans-serif;
   color: #404040;
   font-weight: bold;
-  font-size: 80px;
+  font-size: 60px;
   margin-bottom: 0px; }
 
 h3 {
@@ -1157,7 +1157,7 @@ section.about .container {
     text-align: center;
     margin: 0 auto; }
   .description img {
-    margin-top: 100px;
+    margin-top: 60px;
     opacity: 0.1;
     margin-bottom: 40px; }
 
@@ -1220,7 +1220,7 @@ section.about .container {
 
 .ux {
   background-color: #F6F7F9;
-  min-height: 400px; }
+  min-height: 426px; }
 
 #featuresintro h3, #featuresintro p {
   color: white; }
