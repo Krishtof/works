@@ -1059,7 +1059,8 @@ section.about .container {
   #two h3 {
     margin: 0px;
     line-height: 35px;
-    color: white; }
+    color: white;
+    margin-top: 10px; }
 
 @media (max-width: 992px) {
   .gallery-cell {
