@@ -558,6 +558,12 @@ section.video a:hover i, section.video a:focus i {
   background-position: right;
   background-position: bottom; }
 
+@media (max-width: 767px) {
+  .service {
+    background-attachment: scroll; }
+
+  .ux {
+    background-attachment: scroll; } }
 .desc {
   min-height: 400px;
   padding: 60px; }
