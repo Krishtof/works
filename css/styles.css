@@ -469,7 +469,7 @@ a:hover, a:focus {
  *========================================================================== */
 #imgholder {
   position: relative;
-  min-height: 85vh;
+  min-height: 700px;
   background: #284666 url("../img/hero.jpg") no-repeat center center;
   background-size: cover;
   color: #fff;
@@ -1109,7 +1109,7 @@ section.about .container {
   background-image: url("../img/bg1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 85vh;
+  min-height: 700px;
   -webkit-box-shadow: 0px 0px 8px 0 black;
   -moz-box-shadow: 0px 0px 8px 0 black;
   box-shadow: 0px 0px 8px 0 black; }
@@ -1143,7 +1143,7 @@ section.about .container {
     -webkit-box-shadow: none; }
 
   #bg {
-    height: 50vh; } }
+    min-height: 385px; } }
 #logo {
   max-height: 70px;
   margin: 50px; }
